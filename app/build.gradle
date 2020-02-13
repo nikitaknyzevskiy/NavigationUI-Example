@@ -45,6 +45,10 @@ dependencies {
     implementation 'com.squareup.retrofit2:retrofit:2.7.0'
     implementation 'com.squareup.retrofit2:converter-gson:2.7.0'
 
+    // OhHttp3
+    implementation "com.squareup.okhttp3:okhttp:$okhttp_version"
+    implementation "com.squareup.okhttp3:logging-interceptor:$okhttp_version"
+
     //Lifecycle
     implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:$life_data"
     implementation "androidx.lifecycle:lifecycle-runtime-ktx:$life_data"
