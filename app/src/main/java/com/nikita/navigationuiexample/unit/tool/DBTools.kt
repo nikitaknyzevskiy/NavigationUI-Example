@@ -8,7 +8,7 @@ package com.nikita.navigationuiexample.unit.tool
 
 import android.content.Context
 import androidx.room.Room
-import com.nikita.navigationuiexample.unit.db.MyDatabase
+import com.nikita.navigationuiexample.db.MyDatabase
 
 object DBTools {
 

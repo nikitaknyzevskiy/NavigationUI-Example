@@ -1,4 +1,4 @@
-package com.nikita.navigationuiexample.unit.db.entity
+package com.nikita.navigationuiexample.db.entity
 
 import androidx.annotation.NonNull
 import androidx.room.Entity
